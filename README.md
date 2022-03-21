@@ -1,4 +1,4 @@
-# [Text Analysis of Trump's Tweets Confirms](https://dzone.com/articles/text-analysis-of-trumps-tweets-confirms-he-writes)
+# [Text Analysis of Trump's Tweets](https://dzone.com/articles/text-analysis-of-trumps-tweets-confirms-he-writes)
 
 練習實作AIA課程提到的參考資料。
 
